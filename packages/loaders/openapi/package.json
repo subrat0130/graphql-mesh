@@ -41,7 +41,7 @@
   "dependencies": {
     "@graphql-mesh/string-interpolation": "^0.5.2",
     "@omnigraph/json-schema": "^0.95.10",
-    "change-case": "^4.1.2",
+    "change-case": "^5.0.0",
     "json-machete": "^0.95.7",
     "openapi-types": "^12.1.0"
   },
